@@ -5,13 +5,7 @@ import { getStorage } from "firebase/storage";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC8xShWAfpOKBBRVgF0QXuKbh9qJVM7ulo",
-  authDomain: "vision-board-4ab0b.firebaseapp.com",
-  projectId: "vision-board-4ab0b",
-  storageBucket: "vision-board-4ab0b.firebasestorage.app",
-  messagingSenderId: "481701329931",
-  appId: "1:481701329931:web:8fbfea2f0d06010bb31b0e",
-  measurementId: "G-HB535GT2PB"
+  
 };
 
 // Initialize Firebase
